@@ -5,4 +5,5 @@ branches:
 projects:
   PlayerBounty:
     path: ""
+    icon: "logo.png"
 ...
