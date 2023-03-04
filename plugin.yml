@@ -1,0 +1,6 @@
+name: PlayerBounty
+main: PlayerBounty\Loader
+version: 0.1.0
+api: [3.2.0, 4.0.0]
+author: SVega9848
+description: Set a kill bounty to a player and earn money!

@@ -1,0 +1,13 @@
+# Plugin created by SVega9848
+# You can change the messages color by using &
+
+prefix: "&7[&b&lKillBounty&r&7]"
+usage-message: "{PREFIX} &7> &cUse /killbounty (player) (amount)"
+not-enough-money: "{PREFIX} &7> &cYou do not have enough money! Set a lower amount"
+broadcast-bounty: "{PREFIX} &7> &2{BETTOR} &ahas set a bounty on &2{PLAYER} &afor &6{MONEY}$&a!"
+player-not-online: "{PREFIX} &7> &cThat player is not online!"
+player-already-bounty: "{PREFIX} &7> &cThis player is already on bounty!"
+same-name-error: "{PREFIX} &7> &cYou can not set a bounty on yourself"
+broadcast-bounty-kill: "{PREFIX} &7> &2{KILLER} &aclaimed the bounty of &2{KILLED} &aand gained &6{MONEY}$&a!"
+not-enough-players-bounty: "{PREFIX} &7> &cThere are not enough players on bounty!"
+bountyUI-list: "&c{PLAYER}: &8{MONEY}$"
